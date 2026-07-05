@@ -1,8 +1,4 @@
 # Tutorials_TENSO
----
-title: "Running TENSO in Jupyter on UB CCR via Open OnDemand"
-author: "Franco Group"
----
 
 # Running TENSO in Jupyter on the OOD (Open OnDemand)
 
