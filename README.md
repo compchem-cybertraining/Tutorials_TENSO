@@ -1,5 +1,9 @@
 # Tutorials_TENSO
 
+# For a local clean installation Follow the instructions in our website:
+
+https://ifgroup.github.io/pytenso/
+
 # Running TENSO in Jupyter on the OOD (Open OnDemand)
 
 This guide sets up a dedicated Jupyter kernel for the TENSO package on UB's CCR cluster,
