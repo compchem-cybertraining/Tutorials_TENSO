@@ -38,6 +38,7 @@ for ps_method in ps_methods:
         frame_method='tree2', # TN structure fixed for all runs
         stepwise_method='simple', # Plain stepwise propagation (no mixed scheme)
         ps_method=ps_method, # Propagation scheme: 'ps1' or 'vmf'
+        rank=20,
     )
     progress_bar = tqdm(propagator, total=ceil(end_time / dt))
 
